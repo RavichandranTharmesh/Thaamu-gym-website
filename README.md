@@ -1,4 +1,4 @@
-🏋️‍♂️ Thaamu Gym
+🏋️‍♂️ THAAMU Gym
 Welcome to Thaamu Gym – the perfect place to get fit and stay healthy! This is a front-end website designed using HTML, CSS, and JavaScript to showcase the environment, facilities, and FAQs of our gym. 💪
 
 🌟 Features
